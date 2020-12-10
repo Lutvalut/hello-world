@@ -3,5 +3,5 @@ test repository
 
 Hi Humans!
 
-Some burgers are shit. Swift to cabbage back
+burgers are shit. Swift to cabbage back
 
